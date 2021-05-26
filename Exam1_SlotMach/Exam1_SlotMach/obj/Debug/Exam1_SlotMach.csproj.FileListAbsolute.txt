@@ -1,0 +1,10 @@
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\bin\Debug\Exam1_SlotMach.exe.config
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\bin\Debug\Exam1_SlotMach.exe
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\bin\Debug\Exam1_SlotMach.pdb
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.Form1.resources
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.Properties.Resources.resources
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.csproj.GenerateResource.cache
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.exe
+C:\Users\gtvag\source\repos\Exam1_SlotMach\Exam1_SlotMach\obj\Debug\Exam1_SlotMach.pdb
